@@ -12,7 +12,7 @@ Process for creating a patch:
     Rename folder to "ARC Eclipse Patch v[Version]" where [Version] is the version number of the release.
   </li>
   <li>
-    Compile source code to hex. If using the Arduino IDE this is done via Sketch -> Export Compiled Binary, or Ctrl + Alt + S, and is saved to the sketch directory.
+    Compile source code to hex. If using the Arduino IDE this is done via Sketch -> Export Compiled Binary, or Ctrl + Alt + S, and is saved to the sketch directory. The file should be named "Eclipse.ino.mega.hex".
   </li>
   <li>
     Copy to source code to the Sketch folder, located inside the patch folder.
