@@ -28,7 +28,7 @@ Process to apply a patch:
 
 <ul>
   <li>
-    Disconnect the power supply to the Eclipse, if plugged in.
+    If plugged in, disconnect the power supply to your Eclipse.
   </li>
   <li>
     Connect the Eclipse to your computer via USB.
