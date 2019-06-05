@@ -31,10 +31,10 @@ Process to apply a patch:
     If plugged in, disconnect the power supply to your Eclipse.
   </li>
   <li>
-    Connect the Eclipse to your computer via USB.
+    Connect your Eclipse to your computer via USB.
   </li>
   <li>
-    Extract zipped patch folder.
+    Extract the zipped patch folder.
   </li>
   <li>
     Run (double-click) the Patch file, this should open a progress window.
