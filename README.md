@@ -23,3 +23,36 @@ Process for creating a patch:
 </ul>
 
 Patches can be sent to customer along with the instructions to apply the patch.
+
+Process to apply a patch:
+
+<ul>
+  <li>
+    Disconnect the power supply to the Eclipse, if plugged in.
+  </li>
+  <li>
+    Connect the Eclipse to your computer via USB.
+  </li>
+  <li>
+    Extract zipped patch folder.
+  </li>
+  <li>
+    Run (double-click) the Patch file, this should open a progress window.
+  </li>
+  <li>
+    Once the patch has finished the progress window will close.
+  </li>
+  <li>
+    Wait between ten and thirty seconds for the Eclipse to reset. The screen should reset and/or blink.
+  </li>
+  <li>
+    Remove the USB cable from the Eclipse and your computer.
+  </li>
+  <li>
+    Reconnect power to your Eclipse.
+  </li>
+  <li>
+    Make sure your Eclipse is functioning properly.
+  </li>
+</ul>
+  
