@@ -43,13 +43,13 @@ Process to apply a patch:
     Once the patch has finished the progress window will close.
   </li>
   <li>
-    Wait between ten and thirty seconds for the Eclipse to reset. The screen should reset and/or blink.
+    Wait between ten and thirty seconds for your Eclipse to reset. The screen should reset and/or blink.
   </li>
   <li>
-    Remove the USB cable from the Eclipse and your computer.
+    Disconnect the USB cable from your Eclipse and your computer.
   </li>
   <li>
-    Reconnect power to your Eclipse.
+    Reconnect the power supply to your Eclipse.
   </li>
   <li>
     Make sure your Eclipse is functioning properly.
