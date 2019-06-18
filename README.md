@@ -49,7 +49,7 @@ Process to apply a patch:
     Disconnect the USB cable from your Eclipse and your computer.
   </li>
   <li>
-    Reconnect the power supply to your Eclipse.
+    Wait ten or so seconds, then reconnect the power supply to your Eclipse.
   </li>
   <li>
     Make sure your Eclipse is functioning properly.
