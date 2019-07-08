@@ -1,0 +1,1 @@
+"%~dp0\bin\ArduinoSketchUploader\ArduinoSketchUploader.exe" --file="%~dp0\\bin\Sketch\Eclipse.ino.mega.hex" --model=Mega2560
