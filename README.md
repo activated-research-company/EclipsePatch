@@ -17,7 +17,7 @@ Process for creating a patch:
     Compile source code to hex. If using the Arduino IDE this is done via Sketch -> Export Compiled Binary, or Ctrl + Alt + S, and is saved to the sketch directory. The file should be named "Eclipse.ino.mega.hex".
   </li>
   <li>
-    Copy to source code to the Sketch folder, located inside the patch folder.
+    Copy to source code to the bin/Sketch folder, located inside the patch folder.
   </li>
   <li>
     Zip the patch folder.
@@ -39,13 +39,13 @@ Process to apply a patch:
     Extract the zipped patch folder.
   </li>
   <li>
-    Run (double-click) the Patch file, this should open a progress window.
+    Run (double-click) the Update file, this should open a progress window.
   </li>
   <li>
     Once the patch has finished the progress window will close.
   </li>
   <li>
-    Wait between ten and thirty seconds for your Eclipse to reset. The screen should reset and/or blink.
+    Wait about ten seconds for your Eclipse to reset. The screen should reset and/or blink.
   </li>
   <li>
     Disconnect the USB cable from your Eclipse and your computer.
