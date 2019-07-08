@@ -9,6 +9,8 @@ Process for creating a patch:
     Pull down source files.
   </li>
   <li>
+    Remove the Readme.md file.
+  <li>
     Rename folder to "ARC Eclipse v[Version]" where [Version] is the version number of the release.
   </li>
   <li>
