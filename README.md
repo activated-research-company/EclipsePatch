@@ -1,6 +1,6 @@
 # EclipsePatch
 
-Skeleton patch structure for the ARC Heater Controller, based off of <a href="https://github.com/twinearthsoftware/ArduinoSketchUploader">Arduino Sketch Uploader</a>
+Skeleton patch structure for the ARC Temperature Controller, based off of <a href="https://github.com/twinearthsoftware/ArduinoSketchUploader">Arduino Sketch Uploader</a>
 
 Process for creating a patch:
 
@@ -11,7 +11,7 @@ Process for creating a patch:
   <li>
     Remove the Readme.md file, gitignore file, and git folder.
   <li>
-    Rename folder to "ARC Heater Controller v[Version]" where [Version] is the version number of the release.
+    Rename folder to "ARC Temperature Controller v[Version]" where [Version] is the version number of the release.
   </li>
   <li>
     Compile source code to hex. If using the Arduino IDE this is done via Sketch -> Export Compiled Binary, or Ctrl + Alt + S, and is saved to the sketch directory. The file should be named "Eclipse.ino.mega.hex".
