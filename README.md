@@ -1,60 +1,28 @@
 # EclipsePatch
 
-Skeleton patch structure for the ARC Temperature Controller, based off of <a href="https://github.com/twinearthsoftware/ArduinoSketchUploader">Arduino Sketch Uploader</a>
+This project contains the skeleton patch structure and update commands for the [Eclipse](https://github.com/activated-research-company/Eclipse), based off of this [Arduino Sketch Uploader](https://github.com/twinearthsoftware/ArduinoSketchUploader).
 
-Process for creating a patch:
+## Creating a Patch
 
-<ul>
-  <li>
-    Pull down source files.
-  </li>
-  <li>
-    Remove the Readme.md file, gitignore file, and git folder.
-  <li>
-    Rename folder to "ARC Temperature Controller v[Version]" where [Version] is the version number of the release.
-  </li>
-  <li>
-    Compile source code to hex. If using the Arduino IDE this is done via Sketch -> Export Compiled Binary, or Ctrl + Alt + S, and is saved to the sketch directory. The file should be named "Eclipse.ino.mega.hex".
-  </li>
-  <li>
-    Copy to source code to the bin/Sketch folder, located inside the patch folder.
-  </li>
-  <li>
-    Zip the patch folder.
-  </li>
-</ul>
+- Copy the source files from this repository.
+- Remove the README.md file, .gitignore file, and git folder.
+- Rename folder to "ARC Temperature Controller v[Version]" where [Version] is the version number of the release.
+- Compile the Eclipse source code to hex. If using the Arduino IDE this is done via Sketch -> Export Compiled Binary, or Ctrl + Alt + S, and is saved to the sketch directory. The file should be named "Eclipse.ino.mega.hex".
+- Copy to source code to the bin/Sketch folder, located inside the patch folder.
+- Zip the patch folder.
 
-Patches can be sent to customer along with the instructions to apply the patch.
+Patches can be sent to customer along with the instructions to apply the patch. Patches are also posted on the [ARC Website](https://www.activatedresearch.com/software/arc-temperature-controller/.).
 
-Process to apply a patch:
+## Applying a Patch
 
-<ul>
-  <li>
-    If plugged in, disconnect the power supply to your Eclipse.
-  </li>
-  <li>
-    Connect your Eclipse to your computer via USB.
-  </li>
-  <li>
-    Extract the zipped patch folder.
-  </li>
-  <li>
-    Run (double-click) the Update file, this should open a progress window.
-  </li>
-  <li>
-    Once the patch has finished the progress window will close.
-  </li>
-  <li>
-    Wait about ten seconds for your Eclipse to reset. The screen should reset and/or blink.
-  </li>
-  <li>
-    Disconnect the USB cable from your Eclipse and your computer.
-  </li>
-  <li>
-    Wait ten or so seconds, then reconnect the power supply to your Eclipse.
-  </li>
-  <li>
-    Make sure your Eclipse is functioning properly.
-  </li>
-</ul>
-  
+The update process for customers is located on the [ARC Website](https://www.activatedresearch.com/software/arc-temperature-controller/.).
+
+- If plugged in, disconnect the power supply to your Eclipse.
+- Connect your Eclipse to your computer via USB.
+- Extract the zipped patch folder.
+- Run (double-click) the Update file, this should open a progress window.
+- Once the patch has finished the progress window will close.
+- Wait about ten seconds for your Eclipse to reset. The screen should reset and/or blink.
+- Disconnect the USB cable from your Eclipse and your computer.
+- Wait ten or so seconds, then reconnect the power supply to your Eclipse.
+- Make sure your Eclipse is functioning properly. 
