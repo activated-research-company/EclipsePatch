@@ -11,7 +11,7 @@ This project contains the skeleton patch structure and update commands for the [
 - Copy to source code to the bin/Sketch folder, located inside the patch folder.
 - Zip the patch folder.
 
-Patches can be sent to customer along with the instructions to apply the patch. Patches are also posted on the [ARC Website](https://www.activatedresearch.com/software/arc-temperature-controller/.).
+Patches should be [saved as releases](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-releases-in-a-repository) in the Eclipse repository. They can be sent to directly to customers along with the instructions to apply the patch. Patches are also posted on the [ARC Website](https://www.activatedresearch.com/software/arc-temperature-controller/.).
 
 ## Applying a Patch
 
